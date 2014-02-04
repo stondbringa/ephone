@@ -1,0 +1,19 @@
+{
+    "name": "stondbringa/ephone",
+    "type": "library",
+    "description": "phone number tools",
+    "keywords": ["parser","phone"],
+    "homepage": "http://github.com/stondbringa/ephone",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clement Fourel"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": { "Ephone": "." }
+    }
+}
